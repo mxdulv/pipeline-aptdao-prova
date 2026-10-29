@@ -1,0 +1,25 @@
+# Python 
+
+__pycache__/ 
+
+*.pyc 
+
+.venv/ 
+
+venv/ 
+
+ 
+
+# Credenciais e configurações locais 
+
+.env 
+
+ 
+
+# Dados (não enviar planilhas reais) 
+
+*.xlsx 
+
+*.xls 
+
+*.csv 
