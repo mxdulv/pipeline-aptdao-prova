@@ -54,8 +54,6 @@ flowchart LR
 
     D{{⚙️ pandas<br/>cruzamento por e-mail}} --> F[✅ Regra de aptidão] 
 
-    F --> G[💾 Base em Excel] 
-
     F --> H[📊 Google Sheets] 
 
     H --> I[📈 Looker Studio] 
